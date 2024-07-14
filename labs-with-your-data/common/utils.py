@@ -467,6 +467,7 @@ class CSVTabularAgent(BaseTool):
                                                prefix=CSV_PROMPT_PREFIX,
                                                verbose=self.verbose, 
                                                callback_manager=self.callbacks,
+                                               allow_dangerous_code=True
                                                )
 
     def _run(self, query: str, return_direct = False, run_manager: Optional[CallbackManagerForToolRun] = None) -> str:
