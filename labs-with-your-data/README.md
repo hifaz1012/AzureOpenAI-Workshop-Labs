@@ -1,6 +1,6 @@
 # Azure OpenAI With your Data Labs
 
-Lab Notebooks for the Azure OpenAI Workshop: Utilizing Your Data with Agents
+Lab Notebooks for the Azure OpenAI Workshop - Utilizing Your Data with Agents
 
 ## Architecture
 ![alt text](./images/image.png)
