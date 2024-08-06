@@ -166,3 +166,4 @@ labs-advanced/fine-tuning/azure.env
 labs-advanced/multi-modal/azure.env
 labs-advanced/assistants-api/azure.env
 labs-advanced/evaluation/azure.env
+labs-basic/azure.env
