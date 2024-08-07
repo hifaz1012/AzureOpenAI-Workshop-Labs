@@ -167,3 +167,4 @@ labs-advanced/multi-modal/azure.env
 labs-advanced/assistants-api/azure.env
 labs-advanced/evaluation/azure.env
 labs-basic/azure.env
+labs-rag-agents/credentials.env
