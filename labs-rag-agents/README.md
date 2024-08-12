@@ -1,4 +1,4 @@
-# Azure OpenAI With your Data Labs
+# Smart Chatbot using RAG and Agents
 
 Lab Notebooks for the Azure OpenAI Workshop - Utilizing Your Data with Agents
 
