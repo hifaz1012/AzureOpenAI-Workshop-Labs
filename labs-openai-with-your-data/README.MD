@@ -1,8 +1,11 @@
 **Documentation :-**
 
+Follow the steps below and upload travel_brochures PDF files.
+
 https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search%2Ccopilot
 
 https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart?tabs=command-line%2Cpython-new&pivots=programming-language-studio
+
 
 **Sample Questions :-**
 
