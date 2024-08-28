@@ -20,3 +20,5 @@ With "Azure OpenAI with your data" the responses will be grounded to the PDF doc
 After Deploy to webapps, Follow these steps to assign Managed Identity permissions 
 
 https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-web-app#assign-rbac-roles-to-enable-intra-service-communication
+
+Check AZURE_OPENAI_KEY and AZURE_OPENAI_ENDPOINT is correctly set in environment variables of Azure APP Service.
