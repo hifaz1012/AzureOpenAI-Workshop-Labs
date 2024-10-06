@@ -21,6 +21,15 @@ Lab Notebooks for the Azure OpenAI Workshop - Utilizing Your Data with Agents
 5. The tuple (Question and Answer) is saved to CosmosDB as persistent memory and for further analysis.
 6. The answer is delivered to the user.
 
+## Deploy AI Services
+
+1. Follow Steps listed in https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator?tab=readme-ov-file#steps-to-run-the-pocaccelerator
+
+2. Copy files from `data/arxivcs` PDF files to container `arxivcs` in blob storage
+
+3. Copy files from `data/cord19/metadata.csv` to container `cord19` in blob storage
+
+
 ## Step to run
 1. Clone github repo to your AML Compute Instance or Visual Studio Code Editor.
  ```
@@ -39,4 +48,4 @@ git clone https://github.com/hifaz1012/AzureOpenAI-Workshop-Labs-1.git
 5. **Run the Notebooks in order**. They build up on top of each other.
 
 ## Reference
-The source code has been taken from this repo : https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator and customized. Use this repo for deployment of AI Services using "Deploy" button.
+The source code has been taken from this repo : https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator and customized.
